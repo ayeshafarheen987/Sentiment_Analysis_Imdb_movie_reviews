@@ -3,7 +3,7 @@
 
 # [Fellowship.ai](https://www.fellowship.ai/) Internship
 
-## Candidate Name : [Abdul Jaweed](https://www.linkedin.com/in/abdul-jaweed-datascientist/)
+## Candidate Name : [AYESHA FARHEEN](https://www.linkedin.com/in/ayeshafarheen-/)
 
 ## NLP Challenge: 
  
